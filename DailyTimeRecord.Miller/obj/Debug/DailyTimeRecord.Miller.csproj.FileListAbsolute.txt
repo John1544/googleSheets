@@ -1,0 +1,7 @@
+C:\Users\johnv\source\repos\DailyTimeRecord\DailyTimeRecord.Miller\bin\Debug\DailyTimeRecord.Miller.exe.config
+C:\Users\johnv\source\repos\DailyTimeRecord\DailyTimeRecord.Miller\bin\Debug\DailyTimeRecord.Miller.exe
+C:\Users\johnv\source\repos\DailyTimeRecord\DailyTimeRecord.Miller\bin\Debug\DailyTimeRecord.Miller.pdb
+C:\Users\johnv\source\repos\DailyTimeRecord\DailyTimeRecord.Miller\obj\Debug\DailyTimeRecord.Miller.csprojAssemblyReference.cache
+C:\Users\johnv\source\repos\DailyTimeRecord\DailyTimeRecord.Miller\obj\Debug\DailyTimeRecord.Miller.csproj.CoreCompileInputs.cache
+C:\Users\johnv\source\repos\DailyTimeRecord\DailyTimeRecord.Miller\obj\Debug\DailyTimeRecord.Miller.exe
+C:\Users\johnv\source\repos\DailyTimeRecord\DailyTimeRecord.Miller\obj\Debug\DailyTimeRecord.Miller.pdb
